@@ -1,0 +1,13 @@
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Service\bin\Debug\H4M_Assurance.Service.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Service\bin\Debug\H4M_Assurance.Service.pdb
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Service\bin\Debug\H4M_Assurance.Data.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Service\bin\Debug\H4M_Assurance.Domain.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Service\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Service\bin\Debug\EntityFramework.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Service\bin\Debug\MySql.Data.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Service\bin\Debug\H4M_Assurance.Data.pdb
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Service\bin\Debug\H4M_Assurance.Domain.pdb
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Service\bin\Debug\EntityFramework.xml
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Service\obj\Debug\H4M_Assurance.Service.csprojResolveAssemblyReference.cache
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Service\obj\Debug\H4M_Assurance.Service.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Service\obj\Debug\H4M_Assurance.Service.pdb

@@ -1,0 +1,35 @@
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\bin\Debug\Service.Pattern.dll
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\bin\Debug\Service.Pattern.pdb
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\bin\Debug\MyFinance.Data.dll
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\bin\Debug\EntityFramework.dll
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\bin\Debug\MyFinance.Domain.dll
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\bin\Debug\MyFinance.Data.pdb
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\bin\Debug\EntityFramework.xml
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\bin\Debug\MyFinance.Domain.pdb
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.dll
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.pdb
+C:\Users\PC\Desktop\dotnet-Partie1\MyFinanceFinal\MyFinance\Service.Pattern\bin\Debug\Service.Pattern.dll
+C:\Users\PC\Desktop\dotnet-Partie1\MyFinanceFinal\MyFinance\Service.Pattern\bin\Debug\Service.Pattern.pdb
+C:\Users\PC\Desktop\dotnet-Partie1\MyFinanceFinal\MyFinance\Service.Pattern\bin\Debug\MyFinance.Data.dll
+C:\Users\PC\Desktop\dotnet-Partie1\MyFinanceFinal\MyFinance\Service.Pattern\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\dotnet-Partie1\MyFinanceFinal\MyFinance\Service.Pattern\bin\Debug\MyFinance.Domain.dll
+C:\Users\PC\Desktop\dotnet-Partie1\MyFinanceFinal\MyFinance\Service.Pattern\bin\Debug\MyFinance.Data.pdb
+C:\Users\PC\Desktop\dotnet-Partie1\MyFinanceFinal\MyFinance\Service.Pattern\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\dotnet-Partie1\MyFinanceFinal\MyFinance\Service.Pattern\bin\Debug\MyFinance.Domain.pdb
+C:\Users\PC\Desktop\dotnet-Partie1\MyFinanceFinal\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\dotnet-Partie1\MyFinanceFinal\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.dll
+C:\Users\PC\Desktop\dotnet-Partie1\MyFinanceFinal\MyFinance\Service.Pattern\obj\Debug\Service.Pattern.pdb
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\Service.Pattern\bin\Debug\Service.Pattern.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\Service.Pattern\bin\Debug\Service.Pattern.pdb
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\Service.Pattern\bin\Debug\H4M_Assurance.Data.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\Service.Pattern\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\Service.Pattern\bin\Debug\EntityFramework.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\Service.Pattern\bin\Debug\H4M_Assurance.Domain.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\Service.Pattern\bin\Debug\MySql.Data.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\Service.Pattern\bin\Debug\H4M_Assurance.Data.pdb
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\Service.Pattern\bin\Debug\EntityFramework.xml
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\Service.Pattern\bin\Debug\H4M_Assurance.Domain.pdb
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\Service.Pattern\obj\Debug\Service.Pattern.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\Service.Pattern\obj\Debug\Service.Pattern.pdb

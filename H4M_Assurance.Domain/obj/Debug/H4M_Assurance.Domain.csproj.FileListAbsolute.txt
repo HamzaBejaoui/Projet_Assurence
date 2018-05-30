@@ -1,0 +1,9 @@
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Domain\bin\Debug\H4M_Assurance.Domain.dll.config
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Domain\bin\Debug\H4M_Assurance.Domain.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Domain\bin\Debug\H4M_Assurance.Domain.pdb
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Domain\bin\Debug\EntityFramework.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Domain\bin\Debug\EntityFramework.xml
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Domain\obj\Debug\H4M_Assurance.Domain.dll
+C:\Users\chake\Documents\Visual Studio 2015\Projects\H4M_Assurance\H4M_Assurance.Domain\obj\Debug\H4M_Assurance.Domain.pdb
